@@ -1,0 +1,30 @@
+.ui-header {
+  background-color: #1b244f !important;
+}
+
+.five9-chat-button {
+  background-color: #1b244f !important;
+}
+
+.fa .fa-envelope-o {
+  color: #fff !important;
+}
+
+#terminate-conversation-button,
+#terminate-connecting-button,
+#main-menu-toggle {
+  color: #fff !important;
+}
+
+.provider,
+.provider:hover,
+.provider:focus,
+.provider-text {
+  cursor: default !important;
+  display: none !important;
+}
+
+.ui-icon-carat-d::after {
+  height: 14px !important;
+  width: 14px !important;
+}
